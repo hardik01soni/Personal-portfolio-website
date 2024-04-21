@@ -1,0 +1,108 @@
+Hardik Soni
+Banda, UP, India,
+7985433546
+hardiksoni606@gmail.com
+
+EDUCATION
+Oct 2020-Present
+
+Bachelor of Technology, KIET Group of Institutions
+•
+•
+•
+•
+•
+
+Ghaziabad
+
+Affiliated from Dr. Abdul Kalam
+Technical University, Lucknow
+NAAC Credited A+
+Approved by AICTE
+Computer Science
+Percentage
+o Year 1: 82.38 %
+o Year 2: 68 %
+
+o Currently pursuing 6th semester
+Apr 2018-Apr 2019
+
+XII, Vidyawati Nigam Memorial Public School
+•
+
+•
+Apr 2016-Mar 2017
+
+Affiliated to CBSE, Delhi
+Percentage: 82 %
+
+X, Vidyawati Nigam Memorial Public School
+•
+
+•
+
+Gorakhpur
+
+Gorakhpur
+
+Affiliated to CBSE, Delhi
+CGPA: 8.4
+
+INTERNSHIPS
+Aug 2021-Sep 2021
+MINI PROJECT WEB
+DEVELOPMENT
+
+Learnings: Developed Transport Management System Ghaziabad
+Website, a fully functional site that will provide
+commuters with information such as bus schedules,
+routes, and other details of the bus.
+
+Sep 2022-Oct 2022
+CPID JAVA
+
+Learnings: Developed Currency Converter Application Ghaziabad
+using MyEclipse IDE. It is developed using Ajax, Java
+servlets web features.
+
+PERSONAL PROJECTS
+Introcomponent
+with signup
+form
+Responsive
+Personal
+Portfolio
+website
+
+Learnings: Understanding of basic server-side React
+authentication on an Express.js server with the expressbasic-auth npm package
+Learnings: Created a responsive personal portfolio website
+using HTML, CSS, javascript, and bootstrap. Includes a
+light and dark mode.
+
+An Online
+Food Delivery
+Application
+
+Learnings: Created using React, React Hooks like
+useContext & useReducer, ES6, JSX, Bootstrap5, CSS.
+Deployed in Firebase cloud.
+
+CERTIFICATES
+Sep 2021
+Dec 2021
+Sep 2022
+
+Mini Project by IIPC, KIET
+DSA by COURSERA
+Object-Oriented JAVA by COURSERA
+
+LANGUAGES
+C, C++, JavaScript, Bootstrap, React, NodeJS
+PERSONAL SKILLS
+Teamwork, Leadership quality, Honest, Punctual and Hardworking
+ACHIEVEMENTS
+➢ Solved 300+ questions across different platforms
+➢ Successfully organized KIET Manthan Event, 2022
+
+
